@@ -1,6 +1,6 @@
 
   console.log("my javascript")
-  // Your web app's Firebase configuration
+  // my web app's Firebase configuration -- double check that everything lines up
   var firebaseConfig = {
     apiKey: "AIzaSyADOal8mGh1tgk_pLDXwAaUWymmqNCE1L4",
     authDomain: "train-scheduler-65dfd.firebaseapp.com",
@@ -46,6 +46,7 @@ console.log(trainName, trainDestination, firstTrain, trainFrequency)
   // PART-1
   // input from the form
   // push the info to firebase
+
 
 
   //PART2
